@@ -1,4 +1,6 @@
+streamlit
 opencv-python
 deepface
-streamlit
-tf-keras
+pandas
+requests
+numpy
